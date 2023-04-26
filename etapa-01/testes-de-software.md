@@ -38,10 +38,5 @@ Os softwares são feitos por pessoas, estas que podem cometer erros de síntaxe 
 
 Se um defeito no código for executado, o sistema falhará ao tentar executar o que deveria. Falhas geram insatisfação com a qualidade.
 
-:::info Atenção
-teste
-:::
-
-
-
-
+> **Exemplo**  
+>Um desenvolvedor errou a forma de como iria ser realizado um cálculo, esquecendo de informar a quantidade de casas decimais. O defeito está no código, sem a adição das casas decimais. A falha é exibida no sistema, quando o cálculo é executado e o resultado esperado não é exibido.
