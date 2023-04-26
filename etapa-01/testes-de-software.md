@@ -32,4 +32,11 @@ Os testes são atividades que fazem parte do ciclo do desenvolvimento de um soft
 >> 7.1. Encontrar e consertar defeitos não ajuda se o sistema construído não atenda às expectativas e necessidades dos usuários;  
 
 ## Erro, Defeito e Falha
+Os erros são cometidos por pessoas. Defeitos são gerados à partir destes erros. A falha é a execução do defeito. 
 
+Os softwares são feitos por pessoas, estas que podem cometer erros de síntaxe ou semântica no código, gerando defeitos.  
+
+Se um defeito no código for executado, o sistema falhará ao tentar executar o que deveria. Falhas geram insatisfação com a qualidade.
+
+> **Exemplo**  
+>Um desenvolvedor errou a forma de como iria ser realizado um cálculo, esquecendo de informar a quantidade de casas decimais. O defeito está no código, sem a adição das casas decimais. A falha é exibida no sistema, quando o cálculo é executado e o resultado esperado não é exibido.
