@@ -40,3 +40,7 @@ Se um defeito no código for executado, o sistema falhará ao tentar executar o 
 
 > **Exemplo**  
 >Um desenvolvedor errou a forma de como iria ser realizado um cálculo, esquecendo de informar a quantidade de casas decimais. O defeito está no código, sem a adição das casas decimais. A falha é exibida no sistema, quando o cálculo é executado e o resultado esperado não é exibido.
+
+### Referências
+
+**Iterasys.com.br** - Início Rápido em Testes de Software
